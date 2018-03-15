@@ -1,0 +1,29 @@
+.center-image{
+    margin: auto;
+    width: 50%;
+    padding-top: 100px;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+
+.search-bar{
+    width: 60%;
+    height: 40px;
+    display: block;
+    margin: auto;
+}
+
+.search-buttons{
+    text-align: center;
+    padding-top: 20px;
+}
+
+#google-button, #lucky-button{
+    background-color: whitesmoke;
+    height: 40px;
+    width: 140px;
+    margin: 5px;
+}
