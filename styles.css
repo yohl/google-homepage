@@ -27,3 +27,35 @@ img {
     width: 140px;
     margin: 5px;
 }
+
+.topnav{
+    padding: 10px 0 0 20px;
+}
+
+.topnav a{
+    color: darkgray;
+    text-decoration: none;
+}
+
+.topnav a:hover{
+    text-decoration: underline;
+}
+
+.about{
+    padding: 0px 10px 0 0px;
+}
+
+.store{
+    padding: 10px 0 0 0;
+}
+
+.gmail {
+    float: right;
+    padding: 0 10px 0 0;
+}
+
+.image{
+    float: right;
+    padding: 0 160px 0 0;
+    
+}
