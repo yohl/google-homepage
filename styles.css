@@ -59,3 +59,45 @@ img {
     padding: 0 160px 0 0;
     
 }
+
+.bottomnav{
+    position: fixed;
+    bottom: 0;
+    padding: 10px 0 0 0;
+    height: 40px;
+    width: 100%;
+    
+    background-color: whitesmoke;
+}
+
+.bottomnav a {
+    text-align: center;
+    text-decoration: none;
+    color: darkgrey;
+}
+
+.bottomnav a:hover{
+    text-decoration: underline;
+}
+
+.advertising{
+    padding: 0 10px 0 10px;
+}
+
+.settings{
+    float: right;
+    padding: 0 10px 0 10px;
+}
+
+.terms {
+    float: right;
+    padding: 0 10px 0 10px;
+}
+
+.privacy {
+    float: right;
+    padding: 0 10px 0 10px;
+}
+
+
+
